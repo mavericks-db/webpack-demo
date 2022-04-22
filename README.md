@@ -8,6 +8,8 @@
 
 - [x] Languages: HTML, CSS and JavaScript
 - [x] Module Bundler: Webpack
+- [x] Webpack Plugin: HtmlWebpackPlugin
+- [x] Webpack Loaders: style-loader and css-loader 
 - [x] Code Editor: VS Code
 
 ## Getting Started
