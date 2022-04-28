@@ -83,7 +83,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
+- [Microverse](https://www.microverse.org/)
 
 ## 📝 License
 
